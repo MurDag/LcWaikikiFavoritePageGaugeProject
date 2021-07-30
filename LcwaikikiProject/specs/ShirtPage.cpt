@@ -1,0 +1,16 @@
+# Erkek Gömlek sayfası açıldığı kontrol edilir.
+* "h1ErkekGomlekModelleri" adlı element içinde "Erkek Gömlek Modelleri" yazdığını kontrol et.
+
+# Sırala Menüsünden En yüksek fiyattan seçenegi seçilir.
+* "buttonSirala" adlı elemente tıkla.
+* "buttonEnYuksektenSirala" adlı elemente tıkla.
+
+# Seçimin En yüksek fiyattan olduğu kontrol edilir.
+* "labelSirala" adlı element içinde "En Yüksek Fiyat" yazdığını kontrol et.
+
+# İlk <sayi> ürün favorilere eklenir.
+* "shirtMenu" adlı element içindeki ilk <sayi> elemente tıkla.
+
+# Sağ üstteki favorilerim butonuna tıklanmalı.
+* "buttonFavorilerim" adlı elemente tıkla.
+

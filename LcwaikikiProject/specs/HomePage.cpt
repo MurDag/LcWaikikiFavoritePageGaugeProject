@@ -1,0 +1,15 @@
+Created by testinium on 13.07.2021
+
+This is a concept file with following syntax for each concept.
+# <url> sitesi açılır.
+* <url> Url'sine Git
+
+# Ana sayfanın açıldığı kontrol edilir.
+* Açılan url ile "https://www.lcwaikiki.com/tr-TR/TR" url'i karşılaştır.
+
+# Menüden Erkek seçeneğinin üzerinde durulur.
+* "buttonErkekMenu" adlı elementin üzerinde dur.
+
+# Açılan pencereden Gömlek Seçilir.
+* "buttonGomlek" adlı elemente tıkla.
+

@@ -1,0 +1,17 @@
+# Favorilerim sayfasının açıldığı dogrulanmalı.
+* "h1Favorilerim" adlı element içinde "Favorilerim" yazdığını kontrol et.
+
+# Favori olarak seçilen <sayi> ürünün orada oldugu kontrol edilmeli.
+* Tıklanan 3 ürünün bu sayfada listelendiğini kontrol et.
+
+# Tümünü seç butonuna tıklanmalı.
+* "buttonSelectAll" adlı elemente tıkla.
+
+# Tümünün seçildigi kontrol edilmeli.
+* "checkFavoriteShirts" xPath'li bütün elementlerin seçildiğini kontrol et.
+
+# Seçilenleri sil butonuna tıklanmalı.
+* "removeSelected" adlı elemente tıkla.
+
+# <text> metni sayfada gözlemlenmeli.
+* "pCheckRemoveAllFavoriteShirts" adlı element içinde <text> yazdığını kontrol et.
